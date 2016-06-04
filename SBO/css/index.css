@@ -1,0 +1,64 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400);
+
+
+body {
+    /*background-image: url("../img/it-logo-trasparenza60.png");
+    background-repeat: no-repeat;*/
+    align-content: center;
+    align-items: center;
+    background-color:#fff;
+    -webkit-font-smoothing: antialiased;
+    font: normal 14px Roboto,arial,sans-serif;
+}
+/*html {
+    background: url("../img/it-logo-trasparenza60.png") no-repeat center;
+    /*background-repeat: no-repeat;*/
+    /*background-position: center;*/
+    /*background-size: cover;*/
+
+div{
+    align-items: center;
+    align-content: center;
+}
+h1{
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
+
+img{
+    width: 10%;
+    height: 10%;
+    align-items: center;
+}
+
+.container {
+    padding: 25px;
+    position: fixed;
+}
+
+.form-login {
+    background-color: #EDEDED;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 15px;
+    border-color:#d2d2d2;
+    border-width: 5px;
+    box-shadow:0 1px 0 #cfcfcf;
+}
+
+h4 { 
+ border:0 solid #fff; 
+ border-bottom-width:1px;
+ padding-bottom:10px;
+ text-align: center;
+}
+
+.form-control {
+    border-radius: 10px;
+}
+
+.wrapper {
+    text-align: center;
+}
